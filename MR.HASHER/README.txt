@@ -30,3 +30,6 @@ wordlist to test for potential matches.
 
 Fsociety School INSTAGRAM : https://www.instagram.com/fsocietyschool/
 Fsociety School FACEBOOK  : https://www.facebook.com/people/Fsocietyschool/61554167008350/
+
+BEFORE USE THIS TOOL MAKE SURE YOU INSTALLED THE REQUIREMENTS FILE 
+--> pip install -r requirements.txt
